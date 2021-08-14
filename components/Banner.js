@@ -10,7 +10,7 @@ function Banner() {
       />
       <div className="absolute top-1/2 w-full text-center">
         <p className="my-3 text-3xl font-semibold text-center text-[#ff5a5f] md:text-4xl md:text-[#ff5a5f]">
-          Olympian and Paralympian Experiences.
+          Not sure where to go? Perfect!
         </p>
         <button className="text-purple-500 bg-white px-12 py-4 shadow-lg rounded-full font-bold my-12 hover:shadow-xl active:scale-90 transition duration-150">
           Explore Now!
